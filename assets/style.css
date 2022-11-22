@@ -1,0 +1,11 @@
+header{
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(to right, rgba(85, 0, 255, 0.185), rgb(81, 0, 255));
+    font-size: 30px;
+    color: white;
+}
+#fiveday div{
+    background-color: rgb(64, 64, 64);
+    color: white;
+}
